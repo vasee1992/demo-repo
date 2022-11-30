@@ -1,3 +1,3 @@
 # demo-repo
 practise-repo 
-some description for demo practise session.
+some description for demo practise session!
